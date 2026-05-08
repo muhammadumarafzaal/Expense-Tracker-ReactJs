@@ -1,9 +1,11 @@
 # 💎 Wealth Dashboard - Advanced Expense Tracker
-# Deployment Link: expense-tracker-react-js-alpha.vercel.app
+
 
 ![Hero Image](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200)
 
 Wealth Dashboard is a premium, high-performance expense tracking application built with **React 19**, **Tailwind CSS v4**, and **Framer Motion**. It provides a sleek, fintech-inspired interface to help users manage their finances with precision and clarity.
+
+# Deployment Link: expense-tracker-react-js-alpha.vercel.app
 
 ## ✨ Features
 
