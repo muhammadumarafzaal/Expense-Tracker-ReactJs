@@ -71,6 +71,7 @@ src/
 
 **Muhammad Umar Afzaal**
 - GitHub: [@muhammadumarafzaal](https://github.com/muhammadumarafzaal)
+- Email: umarafzaal182@gmail.com
 
 ---
 
